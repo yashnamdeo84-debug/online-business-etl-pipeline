@@ -1,0 +1,1000 @@
+web-scraper-order;name;original price;special price;discount;plant size;return policy;type;life cycle;location;feng shui;plant age;hybride;brand
+1739021150-1  ;Pottplants Anthurium Plant??(Pack of 1)                                ;499 ;199 ;60%    ;Medium;No Returns Allowed?;Foliage              ;Perennial;Indoor                           ;No ;;No                                                                                                 ;Pottplants             
+1739021152-2  ;greenhousestore Ficus Bonsai Plant??(Hybrid, Pack of 1)                ;599 ;130 ;78%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Hybrid Grafted Candy Crisp Kashmiri Apple Plant Live Fruit Tree Bonsai for Container Outdoor Garden;greenhousestore        
+1739021155-3  ;Roy's Fashoin Brahma Kamal Plant??(Hybrid, Pack of 1)                  ;499 ;249 ;50%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;Roy's Fashoin          
+1739021157-4  ;FURYHUB Tomato Plant??(Hybrid, Pack of 1)                              ;399 ;120 ;69%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;FURYHUB                
+1739021160-5  ;Global Mart Plant Pomegranate Plant??(Hybrid, Pack of 1)               ;398 ;124 ;68%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;Global Mart Plant      
+1739021163-6  ;greenhousestore Jackfruit Plant??(Hybrid, Pack of 1)                   ;599 ;120 ;79%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021165-7  ;Aquinnah Graden White Sandalwood Plant??(Hybrid, Pack of 1)            ;489 ;125 ;74%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Aquinnah Graden        
+1739021168-8  ;Cloud Farm Gummy Gardenia Plant??(Hybrid, Pack of 1)                   ;499 ;135 ;72%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021171-9  ;FSK Betel Nut/Supari Plant??(Hybrid, Pack of 1)                        ;499 ;121 ;75%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor, Outdoor                  ;No ;0.5 Year;Yes                                                                                                ;FSK                    
+1739021174-10 ;Cloud Farm Dragon Tree??(Hybrid, Pack of 3)                            ;499 ;125 ;74%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021177-11 ;AloGardening Dragon Tree??(Hybrid, Pack of 2)                          ;299 ;130 ;56%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Dragon Plant (Hybrid) Pack Of-2                                                                    ;AloGardening           
+1739021179-12 ;Mrplant Jade Plant??(Pack of 1)                                        ;499 ;128 ;74%    ;Small ;No Returns Allowed?;Air purifier plant   ;Annual   ;Indoor                           ;No ;3 Year  ;No                                                                                                 ;Mrplant                
+1739021182-13 ;pagoda point Crasulla Ovata Plant??(Hybrid, Pack of 1)                 ;405 ;130 ;67%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;50 Year ;Yes                                                                                                ;pagoda point           
+1739021186-14 ;UGAOO Bamboo Palm Plant??(Pack of 1)                                   ;499 ;279 ;44%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739021189-15 ;LaughEarth White Sandalwood Plant??(Hybrid, Pack of 1)                 ;499 ;140 ;71%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor, Outdoor                  ;Yes;15 Year ;Yes                                                                                                ;LaughEarth             
+1739021191-16 ;Ariya Berry Plant??(Hybrid, Pack of 1)                                 ;799 ;126 ;84%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Outdoor                          ;No ;;Yes                                                                                                ;Ariya                  
+1739021194-17 ;PlantsEarth Hibiscus Plant??(Hybrid, Pack of 1)                        ;422 ;120 ;71%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;PlantsEarth            
+1739021196-18 ;Bijaya Online Store Areca Palm??(Hybrid, Pack of 3)                    ;449 ;179 ;60%    ;Small ;No Returns Allowed?;Air purifier plant   ;Perennial;Indoor & Outdoor                 ;No ;0.8 Year;Hybrid Plant                                                                                       ;Bijaya Online Store    
+1739021199-19 ;ibains Mini Brazalian wood??(Hybrid, Pack of 44)                       ;399 ;186 ;53%    ;Medium;No Returns Allowed?;Bonsai               ;Perennial;Indoor                           ;Yes;1 Year  ;Yes                                                                                                ;ibains                 
+1739021201-20 ;AloGardening Guava Plant??(Hybrid, Pack of 1)                          ;399 ;185 ;53%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739021204-21 ;AloGardening Dragon Tree??(Hybrid, Pack of 6)                          ;399 ;160 ;59%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739021206-22 ;Ukanda Hibiscus Plant??(Hybrid, Pack of 1)                             ;399 ;119 ;70%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor, Outdoor                  ;Yes;0.5 Year;Yes                                                                                                ;Ukanda                 
+1739021209-23 ;AloGardening Ber Apple Plant??(Hybrid, Pack of 1)                      ;235 ;139 ;40%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;0.2 Year;Yes                                                                                                ;AloGardening           
+1739021211-24 ;EVY Shami/Jand Plant??(Hybrid, Pack of 1)                              ;299 ;118 ;60%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;EVY                    
+1739021214-25 ;greenhousestore Hibiscus Plant??(Hybrid, Pack of 1)                    ;599 ;149 ;75%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021216-26 ;GreenHorizon Rudraksha Plant??(Hybrid, Pack of 1)                      ;663 ;118 ;82%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;0.3 Year;Yes                                                                                                ;GreenHorizon           
+1739021219-27 ;Corofitam Jamun Plant??(Hybrid, Pack of 1)                             ;399 ;123 ;69%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor, Outdoor                  ;Yes;1 Year  ;Yes                                                                                                ;Corofitam              
+1739021221-28 ;Ukanda Bay Leaf Plant??(Hybrid, Pack of 1)                             ;349 ;126 ;63%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;Yes;0.5 Year;Yes                                                                                                ;Ukanda                 
+1739021224-29 ;Gabbro Two Layer Bamboo Plant??(Hybrid, Pack of 2)                     ;999 ;499 ;50%    ;Small ;No Returns Allowed?;Bamboo               ;Perennial;Indoor                           ;Yes;4 Year  ;Yes                                                                                                ;Gabbro                 
+1739021226-30 ;Cloud Farm Tuberose/Rajnigandha Plant??(Hybrid, Pack of 1)             ;499 ;121 ;75%    ;Medium;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;One Live Hybrid Plant Sapling                                                                      ;Cloud Farm             
+1739021229-31 ;Augadh Orange Plant??(Hybrid, Pack of 1)                               ;299 ;115 ;61%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;Augadh                 
+1739021231-32 ;natikrd Chrysanthemums/ Guldavari Plant??(Hybrid, Pack of 1)           ;499 ;140 ;71%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;natikrd                
+1739021234-33 ;PETALFLEUR Adenium Plant??(Hybrid, Pack of 1)                          ;399 ;140 ;64%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;PETALFLEUR             
+1739021236-34 ;Tribute Giloy Plant??(Pack of 20)                                      ;489 ;140 ;71%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;No ;5 Year  ;No                                                                                                 ;Tribute                
+1739021239-35 ;greenhousestore Shami/Jand Plant??(Hybrid, Pack of 1)                  ;599 ;123 ;79%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021241-36 ;greenhousestore Orchid Plant??(Hybrid, Pack of 1)                      ;549 ;127 ;76%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021244-37 ;HARIGURU Aparajita/ Butterfly Pea Plant??(Hybrid, Pack of 1)           ;299 ;180 ;39%    ;Medium;No Returns Allowed?;Flower               ;Biennial ;Indoor & Outdoor, Indoor, Outdoor;Yes;0.5 Year;Yes                                                                                                ;HARIGURU               
+1739021246-38 ;PLANTTOOZS White Sandalwood Plant??(Hybrid, Pack of 1)                 ;399 ;130 ;67%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;PLANTTOOZS             
+1739021249-39 ;ZOOMGREEN Aglaonema Plant??(Hybrid, Pack of 1)                         ;499 ;258 ;48%    ;Medium;No Returns Allowed?;Air purifier plant   ;Annual   ;Indoor                           ;No ;1 Year  ;Yes                                                                                                ;ZOOMGREEN              
+1739021251-40 ;greenhousestore Grapes Plant??(Hybrid, Pack of 1)                      ;599 ;125 ;79%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021257-41 ;Linaa Jade Plant??(Hybrid, Pack of 1)                                  ;999 ;125 ;87%    ;Small ;No Returns Allowed?;Bonsai               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Linaa                  
+1739021259-42 ;ZOOMGREEN Aglaonema Plant??(Hybrid, Pack of 1)                         ;499 ;258 ;48%    ;Medium;No Returns Allowed?;Air purifier plant   ;Annual   ;Indoor                           ;No ;1 Year  ;Yes                                                                                                ;ZOOMGREEN              
+1739021262-43 ;HARIGURU Aparajita/ Butterfly Pea Plant??(Hybrid, Pack of 1)           ;299 ;180 ;39%    ;Medium;No Returns Allowed?;Flower               ;Biennial ;Indoor & Outdoor, Indoor, Outdoor;Yes;0.5 Year;Yes                                                                                                ;HARIGURU               
+1739021265-44 ;greenhousestore Orchid Plant??(Hybrid, Pack of 1)                      ;549 ;127 ;76%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021268-45 ;greenhousestore Grapes Plant??(Hybrid, Pack of 1)                      ;599 ;125 ;79%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021270-46 ;PLANTTOOZS White Sandalwood Plant??(Hybrid, Pack of 1)                 ;399 ;130 ;67%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;PLANTTOOZS             
+1739021273-47 ;AquinnahGaden Pistachio Plant??(Hybrid, Pack of 1)                     ;499 ;189 ;62%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Akbari pistachio Pista Badam Hybrid Plant Pack Of 2(CF56)                                          ;AquinnahGaden          
+1739021275-48 ;MAITRA AND SONS Areca Plam??(Hybrid, Pack of 1)                        ;199 ;132 ;33%    ;Medium;No Returns Allowed?;Shrub                ;Perennial;Indoor                           ;Yes;1 Year  ;Yes                                                                                                ;MAITRA AND SONS        
+1739021278-49 ;HIGH TECH FARM Wax Apple Plant??(Hybrid, Pack of 1)                    ;499 ;123 ;75%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;HIGH TECH FARM         
+1739021280-50 ;Grinian Spider Plant??(Hybrid, Pack of 1)                              ;489 ;165 ;66%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor                           ;Yes;;Yes                                                                                                ;Grinian                
+1739021283-51 ;GHF Two Layer Bamboo Plant??(Pack of 1)                                ;399 ;256 ;35%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;1 Year  ;No                                                                                                 ;GHF                    
+1739021285-52 ;PLANTTOOZS Coconut Plant??(Pack of 1)                                  ;904 ;196 ;78%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor, Outdoor                  ;No ;;No                                                                                                 ;PLANTTOOZS             
+1739021288-53 ;greenhousestore Curry Leaf Plant??(Hybrid, Pack of 1)                  ;599 ;125 ;79%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021290-54 ;AquinnahGaden Brahma Kamal Plant??(Hybrid, Pack of 1)                  ;350 ;126 ;64%    ;Medium;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;AquinnahGaden          
+1739021293-55 ;Harshgreen Two Layer Bamboo Plant??(Pack of 2)                         ;799 ;381 ;52%    ;Medium;No Returns Allowed?;Bamboo               ;Annual   ;Indoor & Outdoor                 ;Yes;24 Year ;No                                                                                                 ;Harshgreen             
+1739021295-56 ;EVY Rudraksha Plant??(Hybrid, Pack of 1)                               ;299 ;114 ;61%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;EVY                    
+1739021298-57 ;MircleGarden Tulsi Plant??(Hybrid, Pack of 1)                          ;249 ;120 ;51%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;MircleGarden           
+1739021300-58 ;Cloud Farm Adenium Plant??(Hybrid, Pack of 5)                          ;;399 ;;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021303-59 ;UGAOO Broken Heart Plant??(Hybrid, Pack of 1)                          ;449 ;299 ;33%    ;Small ;No Returns Allowed?;Air purifier plant   ;Annual   ;Indoor                           ;No ;;Yes                                                                                                ;UGAOO                  
+1739021305-60 ;AquinnahGaden Areca Palm??(Hybrid, Pack of 1)                          ;499 ;139 ;72%    ;Medium;No Returns Allowed?;Foliage              ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;AquinnahGaden          
+1739021308-61 ;rimardmistu Drumstick Tree Plant??(Hybrid, Pack of 1)                  ;599 ;226 ;62%    ;Medium;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;rimardmistu            
+1739021310-62 ;greengrow Neem Plant??(Hybrid, Pack of 1)                              ;589 ;125 ;78%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Outdoor, Indoor & Outdoor        ;Yes;;Yes                                                                                                ;greengrow              
+1739021313-63 ;greenhousestore Apple Plant??(Hybrid, Pack of 1)                       ;408 ;118 ;71%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021315-64 ;PB honey priya plant Shami/Jand Plant??(Hybrid, Pack of 1)             ;398 ;118 ;70%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;Yes;1 Year  ;Yes                                                                                                ;PB honey priya plant   
+1739021318-65 ;Kyari Jade Plant??(Pack of 1)                                          ;499 ;149 ;70%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor                           ;No ;;No                                                                                                 ;Kyari                  
+1739021320-66 ;Click to purchase Madhu Kamini Plant??(Hybrid, Pack of 1)              ;270 ;132 ;51%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;0.2 Year;Yes                                                                                                ;Click to purchase      
+1739021323-67 ;FasanGreen Jasmine Plant??(Hybrid, Pack of 1)                          ;249 ;119 ;52%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Jasmine Hybrid Plant698                                                                            ;FasanGreen             
+1739021326-68 ;AquinnahGaden Black Pepper Plant??(Hybrid, Pack of 2)                  ;489 ;149 ;69%    ;Medium;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;AquinnahGaden          
+1739021328-69 ;PlantsMart Hibiscus Plant??(Hybrid, Pack of 1)                         ;229 ;120 ;47%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;0.9 Year;Yes                                                                                                ;PlantsMart             
+1739021331-70 ;Skrhuvoy Coleus Plant??(Pack of 1)                                     ;399 ;160 ;59%    ;Small ;No Returns Allowed?;Tree                 ;Perennial;Indoor                           ;No ;;No                                                                                                 ;Skrhuvoy               
+1739021333-71 ;Cloud Farm Grapes Plant??(Hybrid, Pack of 1)                           ;499 ;135 ;72%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor, Outdoor        ;Yes;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021336-72 ;Gereen View Bel Plant??(Hybrid, Pack of 1)                             ;699 ;127 ;81%    ;Small ;No Returns Allowed?;Tree                 ;Perennial;Indoor & Outdoor                 ;No ;1.5 Year;Yes                                                                                                ;Gereen View            
+1739021338-73 ;BALA PLANT CREATION Cherry Fruit Plant??(Hybrid, Pack of 1)            ;499 ;122 ;75%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;BALA PLANT CREATION    
+1739021340-74 ;ARYAN EVERGREEN Rose Plant??(Hybrid, Pack of 1)                        ;339 ;115 ;66%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;ARYAN EVERGREEN        
+1739021343-75 ;ADITYA GREEN PLANTS AGP Bacopa Monnieri??(Pack of 1)                   ;399 ;118 ;70%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;No ;;No                                                                                                 ;ADITYA GREEN PLANTS AGP
+1739021345-76 ;Cloud Farm Durian Plant??(Hybrid, Pack of 1)                           ;499 ;122 ;75%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021348-77 ;Global Mart Plant Mini Brazalian wood??(Hybrid, Pack of 1)             ;399 ;125 ;68%    ;Medium;No Returns Allowed?;Bamboo               ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Global Mart Plant      
+1739021351-78 ;GreenHorizon Guava Plant??(Hybrid, Pack of 1)                          ;250 ;120 ;52%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;GreenHorizon           
+1739021353-79 ;greenhousestore Apple Plant??(Hybrid, Pack of 1)                       ;599 ;117 ;80%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021356-80 ;FURYHUB Portulaca Plant??(Hybrid, Pack of 1)                           ;399 ;134 ;66%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;FURYHUB                
+1739021361-81 ;greenhousestore Wax Apple Plant??(Hybrid, Pack of 1)                   ;599 ;135 ;77%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021363-82 ;GreenGrowth Orchid Plant??(Hybrid, Pack of 4)                          ;799 ;146 ;81%    ;Small ;No Returns Allowed?;Tree                 ;Annual   ;Indoor & Outdoor                 ;No ;0.2 Year;Yes                                                                                                ;GreenGrowth            
+1739021366-83 ;Royplant Snake Plant??(Hybrid, Pack of 1)                              ;432 ;135 ;68%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Royplant               
+1739021368-84 ;Cloud Farm Rose Plant??(Hybrid, Pack of 1)                             ;499 ;119 ;76%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021371-85 ;GREENELAND lotus??(Hybrid, Pack of 1)                                  ;153 ;112 ;26%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;GREENELAND             
+1739021373-86 ;Click to buy Calathea Dottie??(Hybrid, Pack of 1)                      ;999 ;146 ;85%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor, Indoor & Outdoor         ;Yes;;Yes                                                                                                ;Click to buy           
+1739021376-87 ;Hug A Plant Vanilla Plant??(Hybrid, Pack of 1)                         ;799 ;399 ;50%    ;Small ;No Returns Allowed?;Creepers and Climbers;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Hug A Plant            
+1739021378-88 ;greengrow Snake Plant??(Hybrid, Pack of 1)                             ;499 ;191 ;61%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greengrow              
+1739021381-89 ;EarthAngel Rose Plant??(Hybrid, Pack of 1)                             ;499 ;124 ;75%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;0.5 Year;Yes                                                                                                ;EarthAngel             
+1739021383-90 ;KUMUBON Begonia Vanusta Plant??(Pack of 1)                             ;299 ;161 ;46%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;No                                                                                                 ;KUMUBON                
+1739021386-91 ;greenhousestore ZZ Plant??(Hybrid, Pack of 1)                          ;599 ;125 ;79%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021388-92 ;greenhousestore Star Fruit Carambola Grafted Plant??(Hybrid, Pack of 1);376 ;121 ;67%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor                           ;Yes;1 Year  ;Yes                                                                                                ;greenhousestore        
+1739021391-93 ;HARIGURU Shahtoot/Mulberry Plant??(Hybrid, Pack of 1)                  ;299 ;189 ;36%    ;Medium;No Returns Allowed?;Fruit                ;Biennial ;Indoor & Outdoor, Outdoor, Indoor;Yes;0.5 Year;Yes                                                                                                ;HARIGURU               
+1739021393-94 ;greenhousestore Aloe Vera Plant??(Hybrid, Pack of 1)                   ;599 ;220 ;63%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021396-95 ;WZZA Laxmi Kamal Plant??(Hybrid, Pack of 1)                            ;499 ;297 ;40%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;2 Year  ;Yes                                                                                                ;WZZA                   
+1739021398-96 ;FSK Cinnamon Plant??(Hybrid, Pack of 1)                                ;419 ;133 ;68%    ;Medium;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;Yes;1 Year  ;Yes                                                                                                ;FSK                    
+1739021401-97 ;GHF Two Layer Bamboo Plant??(Hybrid, Pack of 1)                        ;399 ;174 ;56%    ;Small ;No Returns Allowed?;Bamboo               ;Perennial;Indoor                           ;Yes;4 Year  ;Yes                                                                                                ;GHF                    
+1739021404-98 ;greenhousestore Jack Fruit Plant??(Hybrid, Pack of 1)                  ;598 ;139 ;76%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021406-99 ;PB HONEY PRIYA PLaNTS Bluebell barleria Plant??(Hybrid, Pack of 1)     ;299 ;175 ;41%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;PB HONEY PRIYA PLaNTS  
+1739021409-100;jarr Money Plant??(Hybrid, Pack of 1)                                  ;499 ;125 ;74%    ;Small ;No Returns Allowed?;Air purifier plant   ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;jarr                   
+1739021411-101;PB honey priya plant Star Fruit Carambola Grafted Plant��(Hybrid, Pack ;398 ;124 ;68%    ;Medium;No Returns Allowed?;Fruit                ;Biennial ;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;PB honey priya plant   
+1739021414-102;greenhousestore Madhumalti/Rangoon Creeper??(Hybrid, Pack of 1)        ;313 ;120 ;61%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021416-103;AloGardening Betel Leaf Plant??(Hybrid, Pack of 1)                     ;399 ;185 ;53%    ;Small ;No Returns Allowed?;Herb                 ;Biennial ;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739021419-104;Samarthgreens Pomegranate Plant??(Hybrid, Pack of 1)                   ;599 ;126 ;78%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor                           ;Yes;;Yes                                                                                                ;Samarthgreens          
+1739021421-105;PEDPOUDHE Calathea Plant??(Hybrid, Pack of 1)                          ;1,00;167 ;83%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor                           ;No ;;Yes                                                                                                ;PEDPOUDHE              
+1739021424-106;GreenHorizon Aloe Vera Plant??(Hybrid, Pack of 1)                      ;;;;;;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;0.6 Year;Hybride Aloevera Plant                                                                             ;GreenHorizon           
+1739021426-107;Cloud Farm Adenium Plant??(Hybrid, Pack of 6)                          ;999 ;299 ;70%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor, Outdoor        ;Yes;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021429-108;MAITRA AND SONS Jade Plant??(Hybrid, Pack of 1)                        ;299 ;125 ;58%    ;Medium;No Returns Allowed?;Foliage              ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;MAITRA AND SONS        
+1739021432-109;E-GARDEN RED ROSE PLANT??(Pack of 1)                                   ;499 ;145 ;70%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor                           ;No ;;No                                                                                                 ;E-GARDEN               
+1739021434-110;AquinnahGaden Areca Palm??(Hybrid, Pack of 1)                          ;492 ;152 ;69%    ;Medium;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;AquinnahGaden          
+1739021437-111;Zomoloco Ber Apple Plant??(Hybrid, Pack of 1)                          ;399 ;130 ;67%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;Zomoloco               
+1739021439-112;ARYAN EVERGREEN Lily Plant??(Hybrid, Pack of 1)                        ;599 ;130 ;78%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;2 Year  ;Peace Lily Plant,1 Live Plant (Hybrid, Pack of 1)                                                  ;ARYAN EVERGREEN        
+1739021442-113;greenhousestore Banana Plant??(Hybrid, Pack of 1)                      ;;;;;;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;0.6 Year;Yes                                                                                                ;greenhousestore        
+1739021444-114;GaiaStore Orchid Plant??(Hybrid, Pack of 5)                            ;899 ;146 ;83%    ;Small ;No Returns Allowed?;Flower               ;Biennial ;Indoor                           ;Yes;;Yes                                                                                                ;GaiaStore              
+1739021447-115;Gabbro Jade Plant??(Hybrid, Pack of 1)                                 ;499 ;199 ;60%    ;Medium;No Returns Allowed?;Succulent            ;Perennial;Indoor & Outdoor                 ;Yes;10 Year ;Yes                                                                                                ;Gabbro                 
+1739021449-116;Rm live plant ZZ Plant??(Hybrid, Pack of 1)                            ;499 ;169 ;66%    ;Small ;No Returns Allowed?;Bonsai               ;Annual   ;Indoor                           ;No ;;Yes                                                                                                ;Rm live plant          
+1739021452-117;Vijay Sales Spider Plant??(Hybrid, Pack of 1)                          ;498 ;128 ;74%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor                           ;No ;;Yes                                                                                                ;Vijay Sales            
+1739021454-118;greenhousestore Coconut Plant??(Hybrid, Pack of 1)                     ;599 ;169 ;71%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021457-119;greenhousestore Rose Plant??(Hybrid, Pack of 1)                        ;499 ;120 ;75%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021459-120;Tha live root Laxmi kamal Laxmi Kamal Plant??(Hybrid, Pack of 1)       ;500 ;199 ;60%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Tha live root Laxmi kam
+1739021464-121;AquinnahGaden Insulin Plant??(Hybrid, Pack of 1)                       ;489 ;123 ;74%    ;Medium;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;AquinnahGaden          
+1739021467-122;sealok Euphorbia Plant??(Hybrid, Pack of 1)                            ;399 ;127 ;68%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;sealok                 
+1739021469-123;ABEFARIYA Begonia Vanusta Plant??(Hybrid, Pack of 1)                   ;1,20;140 ;88%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;ABEFARIYA              
+1739021472-124;FURYHUB Money Plant??(Hybrid, Pack of 1)                               ;499 ;130 ;73%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;FURYHUB                
+1739021474-125;AloGardening Adenium Plant??(Hybrid, Pack of 9)                        ;1,09;483 ;56%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;AloGardening           
+1739021477-126;MAITRA AND SONS Rosemary Plant??(Hybrid, Pack of 1)                    ;299 ;180 ;39%    ;Medium;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;MAITRA AND SONS        
+1739021479-127;KUMUBON Madhu Kamini Plant??(Hybrid, Pack of 1)                        ;299 ;250 ;16%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;KUMUBON                
+1739021482-128;Cloud Farm Papaya Plant??(Hybrid, Pack of 1)                           ;499 ;136 ;72%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;One Live Hybrid Plant Sapling                                                                      ;Cloud Farm             
+1739021484-129;LaughEarth Shami/Jand Plant??(Pack of 1)                               ;399 ;170 ;57%    ;Small ;No Returns Allowed?;Succulent            ;Perennial;Indoor, Outdoor                  ;No ;;No                                                                                                 ;LaughEarth             
+1739021487-130;Marinetree Bougainvillea Plant??(Hybrid, Pack of 1)                    ;249 ;125 ;49%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;Yes;0.6 Year;Yes                                                                                                ;Marinetree             
+1739021489-131;Cloud Farm Chiku Plant??(Hybrid, Pack of 1)                            ;499 ;115 ;76%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021493-132;K,M.GREEN Tamarind Plant??(Hybrid, Pack of 1)                          ;399 ;127 ;68%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;K,M.GREEN              
+1739021496-133;Cloud Farm Almond Plant??(Hybrid, Pack of 1)                           ;299 ;130 ;56%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;No ;1 Year  ;Rare Hybrid Almond Fruit plant, CF_824S1433                                                        ;Cloud Farm             
+1739021498-134;ADA China Palm Plant??(Hybrid, Pack of 1)                              ;499 ;129 ;74%    ;Medium;No Returns Allowed?;Bonsai               ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;ADA                    
+1739021501-135;Samarthgreens Ficus Plant??(Hybrid, Pack of 1)                         ;599 ;140 ;76%    ;Medium;No Returns Allowed?;Bonsai               ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Samarthgreens          
+1739021503-136;Ukanda ZZ Plant??(Hybrid, Pack of 1)                                   ;399 ;165 ;58%    ;Small ;No Returns Allowed?;Shrub                ;Perennial;Indoor                           ;Yes;0.5 Year;Yes                                                                                                ;Ukanda                 
+1739021506-137;FSK Coconut Plant??(Hybrid, Pack of 1)                                 ;499 ;196 ;60%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;FSK                    
+1739021509-138;greenhousestore Lemon Plant??(Hybrid, Pack of 1)                       ;599 ;120 ;79%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021512-139;Aquinnah Banana Plant??(Hybrid, Pack of 1)                             ;499 ;138 ;72%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Aquinnah               
+1739021515-140;greenhousestore Mango Plant??(Hybrid, Pack of 1)                       ;599 ;160 ;73%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;All Time Mango plant, Thai Hybrid Variety                                                          ;greenhousestore        
+1739021518-141;greenhousestore Black Pepper Plant??(Hybrid, Pack of 1)                ;499 ;125 ;74%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;greenhousestore        
+1739021521-142;Cloud Farm Kiwi Plant??(Hybrid, Pack of 1)                             ;499 ;125 ;74%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021523-143;greenhousestore Amla Plant??(Hybrid, Pack of 1)                        ;499 ;122 ;75%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021526-144;GHF Two Layer Bamboo Plant??(Hybrid, Pack of 1)                        ;799 ;173 ;78%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;12 Year ;Yes                                                                                                ;GHF                    
+1739021528-145;AquinnahGaden Litchi Plant??(Hybrid, Pack of 1)                        ;489 ;123 ;74%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;AquinnahGaden          
+1739021531-146;greenhousestore Shami/Jand Plant??(Hybrid, Pack of 1)                  ;598 ;121 ;79%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021535-147;AGAMI Two Layer Bamboo Plant??(Pack of 1)                              ;849 ;294 ;65%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;;No                                                                                                 ;AGAMI                  
+1739021538-148;PETALFLEUR Adenium Plant??(Hybrid, Pack of 2)                          ;399 ;160 ;59%    ;Small ;No Returns Allowed?;Bonsai               ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;PETALFLEUR             
+1739021541-149;Cloud Farm Adenium Plant??(Hybrid, Pack of 1)                          ;499 ;135 ;72%    ;Small ;No Returns Allowed?;Bonsai               ;Perennial;Indoor                           ;Yes;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021544-150;EliteGreen Betel Nut/Supari Plant??(Hybrid, Pack of 1)                 ;299 ;183 ;38%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;0.5 Year;Yes                                                                                                ;EliteGreen             
+1739021549-151;Nature House Snake Plant??(Pack of 1)                                  ;349 ;182 ;47%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor & Outdoor                 ;No ;;No                                                                                                 ;Nature House           
+1739021553-152;greenhousestore Christmas Tree Plant??(Hybrid, Pack of 1)              ;599 ;126 ;78%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021557-153;Ukanda Hibiscus Plant??(Hybrid, Pack of 1)                             ;399 ;123 ;69%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;Yes;0.5 Year;Yes                                                                                                ;Ukanda                 
+1739021561-154;NATURE WISE YOU Spider Plant??(Hybrid, Pack of 1)                      ;298 ;127 ;57%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;5 Year  ;Yes                                                                                                ;NATURE WISE YOU        
+1739021564-155;KUMUBON Amla Plant??(Hybrid, Pack of 1)                                ;280 ;155 ;44%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;KUMUBON                
+1739021567-156;GreenHorizon Elaichi/Cardamom Plant??(Hybrid, Pack of 1)               ;305 ;119 ;60%    ;Small ;No Returns Allowed?;Herb                 ;Biennial ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;GreenHorizon           
+1739021571-157;Heaven Of Saplings Gummy Gardenia Plant??(Hybrid, Pack of 1)           ;399 ;158 ;60%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;Heaven Of Saplings     
+1739021574-158;PEEPALSFARM Betel Leaf Plant??(Hybrid, Pack of 1)                      ;247 ;119 ;51%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;PEEPALSFARM            
+1739021578-159;AloGardening ZZ Plant??(Hybrid, Pack of 1)                             ;450 ;131 ;70%    ;;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Rare Red Rambutan Hybrid Exotic Fruit Seedling Live Plant Red Variety [CF37123]                    ;AloGardening           
+1739021582-160;greenhousestore Curry Leaf Plant??(Hybrid, Pack of 1)                  ;439 ;119 ;72%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;Yes;0.6 Year;Yes                                                                                                ;greenhousestore        
+1739021590-161;greenhousestore Walnut Plant??(Hybrid, Pack of 1)                      ;599 ;126 ;78%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021593-162;EVY Tea Plant??(Hybrid, Pack of 1)                                     ;399 ;126 ;68%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;EVY                    
+1739021596-163;Global Mart Plant Blackberry Lily Plant??(Hybrid, Pack of 1)           ;298 ;123 ;58%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Global Mart Plant      
+1739021598-164;Durga Green Garden Golden Champa Plant??(Hybrid, Pack of 1)            ;499 ;126 ;74%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;No ;0.6 Year;Yes                                                                                                ;Durga Green Garden     
+1739021601-165;Grinian Bougainvillea Plant??(Hybrid, Pack of 1)                       ;499 ;123 ;75%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;Grinian                
+1739021605-166;EVY Lily Plant??(Hybrid, Pack of 1)                                    ;389 ;161 ;58%    ;Medium;No Returns Allowed?;Flower               ;Annual   ;Indoor, Outdoor                  ;No ;20 Year ;Yes                                                                                                ;EVY                    
+1739021608-167;UGAOO Variegated Money Plant??(Pack of 1)                              ;445 ;299 ;32%    ;Small ;No Returns Allowed?;Shrub                ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739021611-168;minatigreenhouse Walnut Plant??(Hybrid, Pack of 1)                     ;399 ;137 ;65%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;minatigreenhouse       
+1739021614-169;Cloud Farm Grapes Plant??(Hybrid, Pack of 1)                           ;499 ;122 ;75%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor, Outdoor        ;Yes;1 Year  ;1 Live Hybrid Plant Saplings                                                                       ;Cloud Farm             
+1739021617-170;greenhousestore Elaichi/Cardamom Plant??(Hybrid, Pack of 1)            ;599 ;125 ;79%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021620-171;Cloud Farm Ber Apple Plant??(Hybrid, Pack of 1)                        ;499 ;129 ;74%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;One Live Hybrid Plant Sapling                                                                      ;Cloud Farm             
+1739021622-172;greenhousestore Banana Plant??(Hybrid, Pack of 1)                      ;499 ;119 ;76%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021625-173;Gabbro Two Layer Bamboo Plant, Jade Plant??(Hybrid, Pack of 2)         ;800 ;390 ;51%    ;Small ;No Returns Allowed?;Bamboo               ;Perennial;Indoor & Outdoor                 ;Yes;4 Year  ;Yes                                                                                                ;Gabbro                 
+1739021629-174;Click to buy Peace Lily Plant??(Hybrid, Pack of 1)                     ;251 ;118 ;52%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;Click to buy           
+1739021631-175;LivePlant Calathea Plant??(Pack of 1)                                  ;499 ;210 ;57%    ;Medium;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;No ;0.3 Year;No                                                                                                 ;LivePlant              
+1739021634-176;Aquinnah Rose Plant??(Hybrid, Pack of 1)                               ;425 ;122 ;71%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;0.2 Year;Yes                                                                                                ;Aquinnah               
+1739021636-177;Samarthgreens Red Sandalwood Plant??(Pack of 1)                        ;399 ;142 ;64%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor, Outdoor                  ;No ;;No                                                                                                 ;Samarthgreens          
+1739021639-178;Linaa Rubber Tree??(Hybrid, Pack of 1)                                 ;849 ;145 ;82%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Linaa                  
+1739021642-179;Oxygreenplant Phoneix Palm Plant??(Hybrid, Pack of 1)                  ;384 ;140 ;63%    ;Small ;No Returns Allowed?;Bonsai               ;Perennial;Indoor                           ;No ;1 Year  ;Yes                                                                                                ;Oxygreenplant          
+1739021644-180;JD DAS AND SONS PLANTS Gerbera Plant??(Hybrid, Pack of 1)              ;599 ;129 ;78%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;JD DAS AND SONS PLANTS 
+1739021647-181;Cloud Farm Golden Champa Plant??(Hybrid, Pack of 1)                    ;299 ;126 ;57%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021649-182;LaughEarth Ficus Bonsai??(Hybrid, Pack of 1)                           ;499 ;126 ;74%    ;Small ;No Returns Allowed?;Bonsai               ;Perennial;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;LaughEarth             
+1739021653-183;ABEFARIYA Mogra Flowering Plant, Jasmine Plant??(Hybrid, Pack of 1)    ;1,20;133 ;88%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;ABEFARIYA              
+1739021655-184;greenhousestore Hibiscus Plant??(Hybrid, Pack of 1)                    ;599 ;125 ;79%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021658-185;JASSI FLORA Three Layer Bamboo Plant??(Hybrid, Pack of 1)              ;799 ;174 ;78%    ;Medium;No Returns Allowed?;Bamboo               ;Biennial ;Indoor                           ;Yes;2 Year  ;Yes                                                                                                ;JASSI FLORA            
+1739021661-186;Oxygreenplant Elaichi/Cardamom Plant??(Hybrid, Pack of 1)              ;299 ;135 ;54%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Oxygreenplant          
+1739021663-187;UGAOO Brazilian Wood??(Pack of 1)                                      ;1,99;599 ;70%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;;No                                                                                                 ;UGAOO                  
+1739021666-188;Farmplants Kalanchoe Plant??(Hybrid, Pack of 1)                        ;449 ;145 ;67%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor                           ;No ;;Yes                                                                                                ;Farmplants             
+1739021669-189;EVY Kiwi Plant??(Hybrid, Pack of 1)                                    ;499 ;139 ;72%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;EVY                    
+1739021672-190;varnicrea Mini Brazalian wood??(Pack of 1)                             ;1,20;125 ;89%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;2 Year  ;No                                                                                                 ;varnicrea              
+1739021675-191;Wavingleaf Jade Plant??(Pack of 1)                                     ;295 ;127 ;56%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor                           ;Yes;;No                                                                                                 ;Wavingleaf             
+1739021680-192;The Four Seasons Tillandsia Fuchsii Rare Air Plant??(Pack of 1)        ;550 ;275 ;50%    ;Medium;No Returns Allowed?;Succulent            ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;No                                                                                                 ;The Four Seasons       
+1739021683-193;rimardmistu Strawberry Plant??(Hybrid, Pack of 1)                      ;399 ;126 ;68%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;rimardmistu            
+1739021685-194;greenhousestore Mango Plant??(Hybrid, Pack of 1)                       ;599 ;128 ;78%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021688-195;RADHE SALES Mini Brazalian wood??(Pack of 1)                           ;1,39;129 ;90%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;2 Year  ;No                                                                                                 ;RADHE SALES            
+1739021690-196;Growerstore Madhu Kamini Plant??(Hybrid, Pack of 1)                    ;399 ;127 ;68%    ;Medium;No Returns Allowed?;Air purifier plant   ;Annual   ;Indoor & Outdoor                 ;No ;0.3 Year;Yes                                                                                                ;Growerstore            
+1739021693-197;PB honey priya plant Grapes Plant??(Hybrid, Pack of 1)                 ;499 ;128 ;74%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor, Outdoor                  ;Yes;1 Year  ;Yes                                                                                                ;PB honey priya plant   
+1739021696-198;My Dream Nursery Two Layer Bamboo Plant??(Hybrid, Pack of 1)           ;349 ;163 ;53%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;My Dream Nursery       
+1739021698-199;Unisam Bel patra plant Pot Bel Plant??(Hybrid, Pack of 1)              ;788 ;132 ;83%    ;Small ;No Returns Allowed?;Tree                 ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;Unisam Bel patra plant 
+1739021701-200;AloGardening Chrysanthemums/ Guldavari Plant??(Hybrid, Pack of 1)      ;449 ;140 ;68%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739021709-201;PLANTTOOZS Ficus Bonsai??(Hybrid, Pack of 1)                           ;749 ;130 ;82%    ;Small ;No Returns Allowed?;Bonsai               ;Perennial;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;PLANTTOOZS             
+1739021711-202;greenhousestore Strawberry Plant??(Hybrid, Pack of 2)                  ;494 ;129 ;73%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021714-203;RoyalTree Rose Plant??(Hybrid, Pack of 1)                              ;499 ;155 ;68%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;RoyalTree              
+1739021716-204;UGAOO Haworthia Cactus??(Pack of 1)                                    ;349 ;239 ;31%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739021719-205;TECNOFEX Money Plant, Bamboo Palm Plant, Lucky Bamboo Straight Stick��(;999 ;129 ;87%    ;Medium;No Returns Allowed?;Bamboo               ;Perennial;Indoor & Outdoor                 ;Yes;10 Year ;Yes                                                                                                ;TECNOFEX               
+1739021721-206;Majumder Enterprise Bougainvillea Plant??(Hybrid, Pack of 1)           ;799 ;128 ;83%    ;Medium;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Majumder Enterprise    
+1739021724-207;BRAZILIAN WOOD TREE Mini Brazalian wood??(Pack of 1)                   ;766 ;128 ;83%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;2 Year  ;No                                                                                                 ;BRAZILIAN WOOD TREE    
+1739021726-208;Growerstore Madhu Kamini Plant??(Hybrid, Pack of 1)                    ;399 ;126 ;68%    ;Medium;No Returns Allowed?;Air purifier plant   ;Annual   ;Indoor & Outdoor                 ;No ;0.6 Year;Yes                                                                                                ;Growerstore            
+1739021729-209;EVY Ashwagandha/Indian Ginseng??(Hybrid, Pack of 1)                    ;499 ;139 ;72%    ;Medium;No Returns Allowed?;Herb                 ;Annual   ;Indoor, Outdoor                  ;No ;10 Year ;Yes                                                                                                ;EVY                    
+1739021732-210;LaughEarth Areca Palm??(Hybrid, Pack of 1)                             ;499 ;160 ;67%    ;Small ;No Returns Allowed?;Bamboo               ;Perennial;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;LaughEarth             
+1739021734-211;PlantsHub Peace Lily Plant??(Hybrid, Pack of 1)                        ;499 ;135 ;72%    ;Small ;No Returns Allowed?;Tree                 ;Annual   ;Indoor                           ;No ;;Yes                                                                                                ;PlantsHub              
+1739021737-212;FSK Aparajita/ Butterfly Pea Plant??(Hybrid, Pack of 2)                ;419 ;124 ;70%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor, Outdoor                  ;No ;3 Year  ;Yes                                                                                                ;FSK                    
+1739021740-213;greenhousestore Ber Apple Plant??(Hybrid, Pack of 1)                   ;499 ;127 ;74%    ;Small ;No Returns Allowed?;Fruit                ;Biennial ;Indoor & Outdoor                 ;Yes;1 Year  ;Saraswati Gardens High Yield Hybrid Rare Ziziphus Mauritiana Indian Jujube Bare/Ber Apple Fruit Pla;greenhousestore        
+1739021742-214;FSK Rose Plant??(Hybrid, Pack of 1)                                    ;499 ;132 ;73%    ;Medium;No Returns Allowed?;Flower               ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;FSK                    
+1739021745-215;Cloud Farm Baugainvillea Plant??(Hybrid, Pack of 1)                    ;199 ;127 ;36%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021747-216;ToGon Rose Plant??(Hybrid, Pack of 4)                                  ;399 ;140 ;64%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Four Healthy Hybrid Rose Flower Plant(Pack of 4)                                                   ;ToGon                  
+1739021750-217;greenhousestore Areca Palm??(Hybrid, Pack of 1)                        ;350 ;120 ;65%    ;Small ;No Returns Allowed?;Bonsai               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;greenhousestore        
+1739021753-218;Cloud Farm Rose Plant??(Hybrid, Pack of 1)                             ;499 ;122 ;75%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021757-219;AloGardening Christmas Tree Plant??(Hybrid, Pack of 1)                 ;400 ;153 ;61%    ;Small ;No Returns Allowed?;Succulent            ;Perennial;Indoor & Outdoor                 ;Yes;0.2 Year;Yes                                                                                                ;AloGardening           
+1739021760-220;Krishna All Time Grafted Mango Plant??(Hybrid, Pack of 1)              ;386 ;125 ;67%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Krishna All Time Grafte
+1739021763-221;greenhousestore Bougainvillea Plant??(Hybrid, Pack of 1)               ;599 ;130 ;78%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021767-222;UGAOO Golden Money Plant??(Pack of 1)                                  ;449 ;249 ;44%    ;Small ;No Returns Allowed?;Shrub                ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739021770-223;GLOBQRO Grape Plant??(Hybrid, Pack of 1)                               ;1,50;125 ;91%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;GLOBQRO                
+1739021774-224;AquinnahGaden Baugainvillea Plant??(Hybrid, Pack of 1)                 ;489 ;128 ;73%    ;Medium;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;AquinnahGaden          
+1739021778-225;FSK China Palm Plant??(Hybrid, Pack of 1)                              ;399 ;147 ;63%    ;Small ;No Returns Allowed?;Bamboo               ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;FSK                    
+1739021780-226;UGAOO Chlorophytum Spider Plant??(Pack of 1)                           ;349 ;219 ;37%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739021784-227;Risenshine Jade Plant??(Hybrid, Pack of 1)                             ;599 ;125 ;79%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;Risenshine             
+1739021786-228;Samarthgreens Tuberose/Rajnigandha Plant??(Hybrid, Pack of 1)          ;699 ;118 ;83%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;Samarthgreens          
+1739021789-229;greenhousestore Litchi Plant??(Hybrid, Pack of 1)                      ;442 ;127 ;71%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021792-230;Cloud Farm Areca Plam??(Pack of 1)                                     ;499 ;135 ;72%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor                           ;No ;1 Year  ;No                                                                                                 ;Cloud Farm             
+1739021795-231;EarthAngel Neem Plant??(Hybrid, Pack of 1)                             ;499 ;126 ;74%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;0.5 Year;Yes                                                                                                ;EarthAngel             
+1739021798-232;Agriclons and nusary Bryophyllum Pinnatum/Patharchatta Plant��(Hybrid, ;499 ;125 ;74%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;No ;0.6 Year;Yes                                                                                                ;Agriclons and nusary   
+1739021802-233;PLANTTOOZS Elaichi/Cardamom Plant??(Hybrid, Pack of 1)                 ;499 ;122 ;75%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;Yes;1 Year  ;Garden Nature Care Elaichi/Cardamom Plant (Hybrid, Pack of 1)                                      ;PLANTTOOZS             
+1739021806-234;Laxmi kamal plant Laxmi Kamal Plant??(Hybrid, Pack of 2)               ;890 ;144 ;83%    ;Medium;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Laxmi kamal plant      
+1739021809-235;LaughEarth Peace Lily Plant??(Hybrid, Pack of 1)                       ;499 ;135 ;72%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;LaughEarth             
+1739021814-236;MIDNIGHT MORNING Rose Plant??(Hybrid, Pack of 1)                       ;399 ;122 ;69%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;MIDNIGHT MORNING       
+1739021818-237;Tigress Tulsi Plant??(Hybrid, Pack of 1)                               ;190 ;135 ;28%    ;Medium;No Returns Allowed?;Flower               ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;Tigress                
+1739021822-238;JESAA GREENS Jade Plant, Money Plant, Snake Plant, Two Layer Bamboo Pla;1,59;749 ;53%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;No ;2 Year  ;No                                                                                                 ;JESAA GREENS           
+1739021826-239;MAHAMAYA A TO Z Water Pennywort??(Pack of 2)                           ;1,03;139 ;86%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;No                                                                                                 ;MAHAMAYA A TO Z        
+1739021830-240;greenhousestore Grapes Plant??(Hybrid, Pack of 1)                      ;599 ;127 ;78%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021839-241;Gabbro Jade Plant??(Hybrid, Pack of 1)                                 ;699 ;199 ;71%    ;Medium;No Returns Allowed?;Succulent            ;Perennial;Indoor & Outdoor                 ;Yes;10 Year ;Yes                                                                                                ;Gabbro                 
+1739021844-242;Axotic Diamond Grafted Apple Plant??(Hybrid, Pack of 1)                ;349 ;122 ;65%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Axotic Diamond Grafted 
+1739021848-243;Global Mart Plant Bougainvillea Plant??(Hybrid, Pack of 1)             ;399 ;157 ;60%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;;Baisakhi Nursery Plant Bougainvillea Flower Plant Tree Hybrid Original variety tree Plant pack of 1;Global Mart Plant      
+1739021851-244;Risenshine Bryophyllum Pinnatum/Patharchatta Plant??(Pack of 1)        ;599 ;113 ;81%    ;Medium;No Returns Allowed?;Shrub                ;Perennial;Indoor & Outdoor                 ;Yes;;No                                                                                                 ;Risenshine             
+1739021855-245;greenhousestore Bougainvillea Plant??(Hybrid, Pack of 1)               ;599 ;125 ;79%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021860-246;UGAOO Golden Money Plant??(Pack of 1)                                  ;349 ;189 ;45%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739021864-247;bhowmick Areca Palm??(Hybrid, Pack of 1)                               ;599 ;169 ;71%    ;Medium;No Returns Allowed?;Tree                 ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;bhowmick               
+1739021867-248;HARIGURU All Spice Plant??(Pack of 1)                                  ;299 ;185 ;38%    ;Medium;No Returns Allowed?;Herb                 ;Biennial ;Indoor & Outdoor                 ;No ;0.5 Year;No                                                                                                 ;HARIGURU               
+1739021871-249;AloGardening Adenium Plant??(Hybrid, Pack of 2)                        ;489 ;189 ;61%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739021874-250;Mohomaya Sweet Lemon Plant??(Hybrid, Pack of 1)                        ;299 ;115 ;61%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Mohomaya               
+1739021877-251;bhowmick Baugainvillea Plant??(Hybrid, Pack of 1)                      ;499 ;134 ;73%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;bhowmick               
+1739021881-252;My Dream Nursery Black Pepper Plant??(Hybrid, Pack of 1)               ;200 ;149 ;25%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;My Dream Nursery       
+1739021886-253;AloGardening Adenium Plant??(Hybrid, Pack of 6)                        ;789 ;270 ;65%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;AloGardening           
+1739021888-254;RudraECOM Hibiscus Plant??(Hybrid, Pack of 1)                          ;499 ;125 ;74%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;0.2 Year;Yes                                                                                                ;RudraECOM              
+1739021891-255;MAHAMAYA A TO Z Mimosa pudica Plant??(Hybrid, Pack of 1)               ;1,00;143 ;85%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;MAHAMAYA A TO Z        
+1739021895-256;Aquinnah Almond Plant??(Hybrid, Pack of 1)                             ;499 ;159 ;68%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Aquinnah               
+1739021899-257;Gabbro Two Layer Bamboo Plant??(Hybrid, Pack of 1)                     ;999 ;299 ;70%    ;Medium;No Returns Allowed?;Bamboo               ;Perennial;Indoor                           ;Yes;10 Year ;Yes                                                                                                ;Gabbro                 
+1739021902-258;Heaven Of Saplings Areca Palm??(Hybrid, Pack of 1)                     ;200 ;135 ;32%    ;Small ;No Returns Allowed?;Bamboo               ;Perennial;Indoor & Outdoor                 ;Yes;0.6 Year;Yes                                                                                                ;Heaven Of Saplings     
+1739021905-259;SKDIYA Cherry Fruit Plant??(Hybrid, Pack of 1)                         ;595 ;137 ;76%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;SKDIYA                 
+1739021907-260;UGAOO Peace Lily Plant??(Pack of 1)                                    ;599 ;299 ;50%    ;Small ;No Returns Allowed?;Shrub                ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739021910-261;ZOOMGREEN Areca Palm??(Pack of 1)                                      ;499 ;129 ;74%    ;Medium;No Returns Allowed?;Bonsai               ;Annual   ;Indoor                           ;No ;1 Year  ;No                                                                                                 ;ZOOMGREEN              
+1739021912-262;ADA Shami/Jand Plant??(Pack of 1)                                      ;449 ;125 ;72%    ;Medium;No Returns Allowed?;Tree                 ;Perennial;Indoor & Outdoor                 ;No ;;No                                                                                                 ;ADA                    
+1739021915-263;Green view Coconut Plant??(Hybrid, Pack of 1)                          ;425 ;275 ;35%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Green view             
+1739021917-264;PlantsBazaar Rubber Tree??(Pack of 1)                                  ;499 ;145 ;70%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor                           ;No ;;No                                                                                                 ;PlantsBazaar           
+1739021920-265;SANJU Strawberry Plant??(Hybrid, Pack of 1)                            ;299 ;119 ;60%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;SANJU                  
+1739021925-266;Aquinnah Graden Pistachio Plant??(Hybrid, Pack of 1)                   ;489 ;145 ;70%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Aquinnah Graden        
+1739021928-267;sspykrts Clove Plant??(Hybrid, Pack of 3)                              ;599 ;126 ;78%    ;Small ;No Returns Allowed?;Tree                 ;Annual   ;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;sspykrts               
+1739021933-268;Ukanda Bay Leaf Plant??(Hybrid, Pack of 1)                             ;299 ;124 ;58%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;Yes;;Yes                                                                                                ;Ukanda                 
+1739021937-269;Green view Coconut Plant??(Hybrid, Pack of 1)                          ;625 ;298 ;52%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Green view             
+1739021939-270;PLANTTOOZS Red Sandalwood Plant??(Pack of 1)                           ;625 ;122 ;80%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor, Outdoor                  ;No ;;No                                                                                                 ;PLANTTOOZS             
+1739021945-271;Aquinnah Banana Plant??(Hybrid, Pack of 1)                             ;499 ;141 ;71%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Hybrid Banana Live plant for fruiting, Gardening or devotional purpose [CF987j]                    ;Aquinnah               
+1739021947-272;Green view Coconut Plant??(Hybrid, Pack of 1)                          ;419 ;289 ;31%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Green view             
+1739021950-273;Cloud Farm Grapes Plant??(Hybrid, Pack of 2)                           ;499 ;135 ;72%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor, Outdoor        ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021952-274;Global Mart Plant Cannon Ball Tree Plant??(Hybrid, Pack of 1)          ;399 ;125 ;68%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Global Mart Plant      
+1739021955-275;AloGardening Adenium Plant??(Hybrid, Pack of 2)                        ;489 ;189 ;61%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739021957-276;Green view Coconut Plant??(Hybrid, Pack of 1)                          ;449 ;271 ;39%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Green view             
+1739021960-277;Ukaanda Money Plant??(Pack of 1)                                       ;399 ;127 ;68%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor, Outdoor                  ;Yes;1 Year  ;No                                                                                                 ;Ukaanda                
+1739021963-278;greenhousestore Christmas Tree Plant??(Hybrid, Pack of 1)              ;596 ;126 ;78%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021966-279;Cloud Farm Money Plant??(Hybrid, Pack of 1)                            ;499 ;130 ;73%    ;Medium;No Returns Allowed?;Air purifier plant   ;Perennial;Indoor                           ;No ;1 Year  ;One Live Hybrid Plant Sapling                                                                      ;Cloud Farm             
+1739021968-280;Phoolistan Ficus Plant??(Hybrid, Pack of 1)                            ;499 ;130 ;73%    ;Small ;No Returns Allowed?;Bonsai               ;Annual   ;Indoor                           ;No ;;Yes                                                                                                ;Phoolistan             
+1739021973-281;greenhousestore Litchi Plant??(Hybrid, Pack of 1)                      ;599 ;126 ;78%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739021976-282;PB HONEY PRIYA PLaNTS Bluebell barleria Plant??(Hybrid, Pack of 1)     ;299 ;166 ;44%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;PB HONEY PRIYA PLaNTS  
+1739021978-283;UGAOO Golden Sedum Plant??(Pack of 1)                                  ;349 ;199 ;42%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739021981-284;GLOBQRO Begonia Vanusta Plant??(Hybrid, Pack of 1)                     ;499 ;150 ;69%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;GLOBQRO                
+1739021983-285;greengrow Shami/Jand Plant??(Pack of 1)                                ;299 ;127 ;57%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor & Outdoor                 ;Yes;1 Year  ;No                                                                                                 ;greengrow              
+1739021986-286;AloGardening Basmati Plant??(Hybrid, Pack of 1)                        ;449 ;178 ;60%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;AloGardening           
+1739021988-287;Cloud Farm Bougainvillea Plant??(Hybrid, Pack of 1)                    ;499 ;135 ;72%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739021991-288;YourPlant Adenium Plant??(Hybrid, Pack of 2)                           ;649 ;145 ;77%    ;Small ;No Returns Allowed?;Bonsai               ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;YourPlant              
+1739021993-289;PLANTGENIC NATURE White Sandalwood Plant??(Hybrid, Pack of 1)          ;320 ;121 ;62%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;15 Year ;Yes                                                                                                ;PLANTGENIC NATURE      
+1739021996-290;GreenHorizon Bryophyllum Pinnatum/Patharchatta Plant??(Pack of 1)      ;366 ;134 ;63%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;No ;0 Year  ;No                                                                                                 ;GreenHorizon           
+1739021999-291;greenhousestore Curry Leaf Plant??(Hybrid, Pack of 1)                  ;399 ;134 ;66%    ;Medium;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;greenhousestore        
+1739022002-292;Cloud Farm Coconut Plant??(Hybrid, Pack of 1)                          ;499 ;150 ;69%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739022004-293;ibains Mini Brazalian wood??(Hybrid, Pack of 1)                        ;499 ;237 ;52%    ;Large ;No Returns Allowed?;Bonsai               ;Annual   ;Indoor                           ;Yes;;Yes                                                                                                ;ibains                 
+1739022006-294;Natural needs Adenium Plant??(Hybrid, Pack of 1)                       ;499 ;126 ;74%    ;Medium;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Natural needs          
+1739022009-295;LaughEarth Bougainvillea Plant??(Hybrid, Pack of 1)                    ;499 ;139 ;72%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;LaughEarth             
+1739022012-296;LaughEarth Hibiscus Plant??(Hybrid, Pack of 1)                         ;299 ;171 ;42%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;Yes;1 Year  ;Yes                                                                                                ;LaughEarth             
+1739022014-297;LivePlant Money Plant??(Hybrid, Pack of 1)                             ;300 ;113 ;62%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor                           ;Yes;;Yes                                                                                                ;LivePlant              
+1739022017-298;Leafyjoy Brazilian Wood??(Pack of 1)                                   ;346 ;165 ;52%    ;Medium;No Returns Allowed?;Air purifier plant   ;Annual   ;Indoor                           ;Yes;3 Year  ;No                                                                                                 ;Leafyjoy               
+1739022019-299;AquinnahGaden Brahma Kamal Plant??(Hybrid, Pack of 1)                  ;489 ;158 ;67%    ;Medium;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;AquinnahGaden          
+1739022022-300;greenhousestore Orange Plant??(Hybrid, Pack of 1)                      ;599 ;120 ;79%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Hybrid Orange Plant. [v3]                                                                          ;greenhousestore        
+1739022024-301;Cloud Farm Dragon Tree??(Hybrid, Pack of 5)                            ;399 ;136 ;65%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;;5 Live Hybrid Plant Saplings                                                                       ;Cloud Farm             
+1739022027-302;KAVARI ENTERPRISE Rose Plant??(Hybrid, Pack of 1)                      ;499 ;155 ;68%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor, Indoor, Outdoor;No ;;Yes                                                                                                ;KAVARI ENTERPRISE      
+1739022030-303;Cloud Farm Chiku Plant??(Hybrid, Pack of 1)                            ;199 ;126 ;36%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;;Hybrid Grafted Thai Chiku Live Plant [CF69]                                                        ;Cloud Farm             
+1739022033-304;greenhousestore Adenium Plant??(Hybrid, Pack of 1)                     ;599 ;135 ;77%    ;Small ;No Returns Allowed?;Bonsai               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739022035-305;Cloud Farm Betel Leaf Plant??(Hybrid, Pack of 1)                       ;499 ;127 ;74%    ;Medium;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;One Live Hybrid Plant Sapling                                                                      ;Cloud Farm             
+1739022038-306;Risenshine Adenium Plant??(Hybrid, Pack of 1)                          ;499 ;127 ;74%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;;New Best Quality|100% Adenium| Best 100% Quality |Plant Hybrid| Sapling|Grafted Plant              ;Risenshine             
+1739022041-307;TAWZIX Money Plant??(Hybrid, Pack of 1)                                ;699 ;125 ;82%    ;Small ;No Returns Allowed?;Bonsai               ;Annual   ;Indoor                           ;Yes;2 Year  ;Yes                                                                                                ;TAWZIX                 
+1739022043-308;EarthAngel Snake Plant??(Hybrid, Pack of 1)                            ;499 ;163 ;67%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor & Outdoor                 ;Yes;0.5 Year;Yes                                                                                                ;EarthAngel             
+1739022046-309;Aziz Gazi Nursery Dragon Tree??(Hybrid, Pack of 1)                     ;399 ;128 ;67%    ;Small ;No Returns Allowed?;Fruit                ;Biennial ;Indoor                           ;Yes;;Dragon Fruit Plant (Hybrid Pack Of 1)                                                              ;Aziz Gazi Nursery      
+1739022048-310;Medhi Snake Plant??(Hybrid, Pack of 1)                                 ;499 ;139 ;72%    ;Small ;No Returns Allowed?;Foliage              ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;Medhi                  
+1739022051-311;greenhousestore Ficus Bonsai??(Hybrid, Pack of 1)                      ;499 ;155 ;68%    ;Small ;No Returns Allowed?;Bonsai               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739022053-312;Saeedia plant hub Acanthocerous Tetragonous Mons Variegated Fairy Castl;2,99;288 ;90%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;Saeedia plant hub      
+1739022056-313;AGRAWBIC Two Layer Bamboo Plant??(Hybrid, Pack of 1)                   ;498 ;180 ;63%    ;Small ;No Returns Allowed?;Bamboo               ;Perennial;Indoor, Outdoor                  ;Yes;1 Year  ;Yes                                                                                                ;AGRAWBIC               
+1739022058-314;Broken heart plant Broken Heart Plant??(Pack of 1)                     ;299 ;155 ;48%    ;Small ;No Returns Allowed?;Tree                 ;Annual   ;Indoor & Outdoor, Indoor         ;No ;;No                                                                                                 ;Broken heart plant     
+1739022061-315;Plant Paradise Rudraksha Plant??(Hybrid, Pack of 1)                    ;299 ;143 ;52%    ;Medium;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;Plant Paradise         
+1739022063-316;Gardanglow Marsh Barbel Plant??(Hybrid, Pack of 1)                     ;570 ;135 ;76%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Gardanglow             
+1739022066-317;greenhousestore Baugainvillea Plant??(Hybrid, Pack of 1)               ;599 ;129 ;78%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739022069-318;Flora Solutions Money Plant??(Hybrid, Pack of 2)                       ;599 ;199 ;66%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor & Outdoor                 ;Yes;3 Year  ;Yes                                                                                                ;Flora Solutions        
+1739022072-319;HouseOfCommon Orange Plant??(Hybrid, Pack of 1)                        ;399 ;120 ;69%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Outdoor, Indoor                  ;Yes;2 Year  ;Yes                                                                                                ;HouseOfCommon          
+1739022075-320;Real Nature Three Layer Bamboo Plant??(Hybrid, Pack of 1)              ;659 ;449 ;31%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;;Yes                                                                                                ;Real Nature            
+1739022082-321;greenhousestore Star Fruit Carambola Grafted Plant??(Hybrid, Pack of 1);499 ;139 ;72%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739022085-322;Real Nature Three Layer Bamboo Plant??(Hybrid, Pack of 1)              ;659 ;449 ;31%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;;Yes                                                                                                ;Real Nature            
+1739022087-323;PB honey priya plant Bottle Gourd??(Hybrid, Pack of 35)                ;294 ;113 ;61%    ;Small ;No Returns Allowed?;Vegetable            ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;PB honey priya plant   
+1739022091-324;Oxygreenplant Shahtoot/Mulberry Plant??(Hybrid, Pack of 1)             ;399 ;126 ;68%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;Oxygreenplant          
+1739022093-325;Ukanda Canna Lily Plant??(Hybrid, Pack of 1)                           ;399 ;148 ;62%    ;Small ;No Returns Allowed?;Flower               ;Biennial ;Indoor                           ;Yes;0.5 Year;Yes                                                                                                ;Ukanda                 
+1739022096-326;LaughEarth Hibiscus Plant??(Hybrid, Pack of 3)                         ;379 ;134 ;64%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Outdoor                          ;No ;1 Year  ;Yes                                                                                                ;LaughEarth             
+1739022100-327;Real Nature Lucky Bamboo Plant??(Hybrid, Pack of 1)                    ;549 ;296 ;46%    ;Small ;No Returns Allowed?;Bamboo               ;Perennial;Indoor                           ;Yes;;Yes                                                                                                ;Real Nature            
+1739022103-328;greenhousestore Mint Plant??(Hybrid, Pack of 1)                        ;399 ;126 ;68%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;Yes;0.6 Year;Yes                                                                                                ;greenhousestore        
+1739022108-329;JESAA GREENS Money Plant, Bamboo Palm Plant??(Pack of 2)               ;1,59;452 ;71%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;No ;2 Year  ;No                                                                                                 ;JESAA GREENS           
+1739022111-330;GREENSEE Orchid Plant??(Hybrid, Pack of 4)                             ;359 ;130 ;63%    ;Medium;No Returns Allowed?;Flower               ;Biennial ;Indoor & Outdoor                 ;No ;0.3 Year;Yes                                                                                                ;GREENSEE               
+1739022113-331;Cloud Farm Betal Leaf Plant??(Hybrid, Pack of 1)                       ;499 ;122 ;75%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739022117-332;Aquinnah Betel Leaf Plant??(Hybrid, Pack of 1)                         ;499 ;135 ;72%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Aquinnah               
+1739022119-333;THE BHOWMICK Mango Plant??(Hybrid, Pack of 1)                          ;299 ;125 ;58%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;THE BHOWMICK           
+1739022123-334;K.K.Enterprise Lemon Plant??(Hybrid, Pack of 1)                        ;363 ;120 ;66%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;K.K.Enterprise         
+1739022126-335;Zomoloco Adenium Plant??(Hybrid, Pack of 1)                            ;399 ;199 ;50%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;Zomoloco               
+1739022129-336;Gaingreen Chiku Plant??(Hybrid, Pack of 1)                             ;699 ;120 ;82%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;Gaingreen              
+1739022132-337;Kyari Money Plant??(Pack of 1)                                         ;499 ;121 ;75%    ;Small ;No Returns Allowed?;Foliage              ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;Kyari                  
+1739022135-338;saraswati traders ZZ Plant??(Hybrid, Pack of 1)                        ;549 ;135 ;75%    ;Small ;No Returns Allowed?;Fruit                ;Biennial ;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;saraswati traders      
+1739022138-339;GROSSAMER Lotus Plant, Syngonium Bronze Maria Plant??(Pack of 40)      ;999 ;149 ;85%    ;Medium;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;No ;;No                                                                                                 ;GROSSAMER              
+1739022140-340;PlantShop Orange Plant??(Hybrid, Pack of 1)                            ;399 ;118 ;70%    ;Medium;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;PlantShop              
+1739022143-341;Grinian Aloe Vera Plant??(Hybrid, Pack of 1)                           ;599 ;122 ;79%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;No ;;Hybrid_Aloevera15                                                                                  ;Grinian                
+1739022146-342;greenhousestore Avocado Plant??(Hybrid, Pack of 1)                     ;599 ;115 ;80%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739022149-343;FSK Hibiscus Plant??(Hybrid, Pack of 1)                                ;418 ;109 ;73%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;FSK                    
+1739022151-344;greenhousestore Rose Plant??(Hybrid, Pack of 1)                        ;599 ;122 ;79%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739022154-345;Tha live root vishnu kamal Furkeria Succulent Plant��(Hybrid, Pack of 1;590 ;162 ;72%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Tha live root vishnu ka
+1739022159-346;greenhousestore Rose Plant??(Hybrid, Pack of 3)                        ;598 ;138 ;76%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739022163-347;AloGardening Serissa Hedge Plant??(Hybrid, Pack of 1)                  ;399 ;136 ;65%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739022168-348;Hug A Plant Cocoa Plant??(Hybrid, Pack of 1)                           ;799 ;399 ;50%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Hug A Plant            
+1739022171-349;My Dream Nursery Kiwi Plant??(Hybrid, Pack of 1)                       ;259 ;199 ;23%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;1 Year  ;Yes                                                                                                ;My Dream Nursery       
+1739022174-350;greenhousestore Chiku Plant??(Hybrid, Pack of 1)                       ;599 ;127 ;78%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739022176-351;NiMoj Two Layer Bamboo Plant, Lucky Bamboo Straight Stick, Veld Grape P;499 ;242 ;51%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor, Indoor & Outdoor         ;Yes;10 Year ;Yes                                                                                                ;NiMoj                  
+1739022179-352;ATIKNAM Mini Brazalian wood??(Hybrid, Pack of 1)                       ;599 ;128 ;78%    ;Medium;No Returns Allowed?;Flower               ;Annual   ;Indoor                           ;No ;;Yes                                                                                                ;ATIKNAM                
+1739022181-353;L BRAZILIAN LUCKY WOOD PLANT Basil Plant??(Hybrid, Pack of 1)          ;599 ;134 ;77%    ;Small ;No Returns Allowed?;Air purifier plant   ;Perennial;Indoor                           ;No ;;Yes                                                                                                ;L BRAZILIAN LUCKY WOOD 
+1739022184-354;greenhousestore Kiwi Plant??(Hybrid, Pack of 1)                        ;599 ;126 ;78%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;greenhousestore        
+1739022186-355;UGAOO Christmas Cactus Plant??(Pack of 1)                              ;349 ;199 ;42%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022189-356;GeenLk Golden Money Plant??(Hybrid, Pack of 1)                         ;299 ;170 ;43%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;12 Year ;Yes                                                                                                ;GeenLk                 
+1739022191-357;Elanthalir Table Palm Plant??(Hybrid, Pack of 1)                       ;299 ;142 ;52%    ;Small ;No Returns Allowed?;Bonsai               ;Perennial;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;Elanthalir             
+1739022194-358;Samarthgreens Strawberry Plant??(Hybrid, Pack of 1)                    ;600 ;121 ;79%    ;Small ;No Returns Allowed?;Fruit                ;Annual   ;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Samarthgreens          
+1739022196-359;SKDIYA Cherry Fruit Plant??(Hybrid, Pack of 1)                         ;595 ;137 ;76%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;SKDIYA                 
+1739022199-360;UGAOO Golden Aralia Plant??(Pack of 1)                                 ;349 ;199 ;42%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022201-361;GHF Two Layer Bamboo Plant??(Hybrid, Pack of 1)                        ;421 ;171 ;59%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;12 Year ;Yes                                                                                                ;GHF                    
+1739022204-362;UGAOO Jade Plant??(Hybrid, Pack of 1)                                  ;495 ;299 ;39%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor                           ;Yes;;Yes                                                                                                ;UGAOO                  
+1739022206-363;bhowmick Areca Palm??(Hybrid, Pack of 1)                               ;599 ;169 ;71%    ;Medium;No Returns Allowed?;Tree                 ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;bhowmick               
+1739022209-364;Nursery Hub Jade Plant??(Pack of 6)                                    ;1,53;399 ;73%    ;Small ;No Returns Allowed?;Flower               ;Annual   ;Indoor & Outdoor                 ;No ;;No                                                                                                 ;Nursery Hub            
+1739022212-365;UGAOO Two Layer Bamboo Plant??(Pack of 1)                              ;399 ;249 ;37%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;;No                                                                                                 ;UGAOO                  
+1739022215-366;AloGardening Guava Plant??(Hybrid, Pack of 1)                          ;349 ;129 ;63%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739022217-367;bhowmick Baugainvillea Plant??(Hybrid, Pack of 1)                      ;499 ;134 ;73%    ;Medium;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;;Yes                                                                                                ;bhowmick               
+1739022221-368;UGAOO Three Layer Bamboo Plant??(Pack of 1)                            ;499 ;349 ;30%    ;Small ;No Returns Allowed?;Bamboo               ;Biennial ;Indoor                           ;Yes;;No                                                                                                 ;UGAOO                  
+1739022224-369;EVY Tuberose/Rajnigandha Plant??(Hybrid, Pack of 1)                    ;399 ;125 ;68%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;EVY                    
+1739022226-370;UGAOO Philodendron Micans Plant??(Pack of 1)                           ;449 ;329 ;26%    ;Small ;No Returns Allowed?;Foliage              ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022229-371;LaughEarth Parijat/Harsingar Plant??(Hybrid, Pack of 1)                ;499 ;123 ;75%    ;Small ;No Returns Allowed?;Herb                 ;Annual   ;Indoor, Outdoor                  ;No ;;Yes                                                                                                ;LaughEarth             
+1739022231-372;Green view Coconut Plant??(Hybrid, Pack of 1)                          ;449 ;271 ;39%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Green view             
+1739022240-373;UGAOO Philodendron Brasil Plant??(Pack of 1)                           ;449 ;299 ;33%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022242-374;UGAOO Philodendron Brasil Plant??(Pack of 1)                           ;449 ;299 ;33%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022245-375;Unisam Laxmi Lakshmi Kamal Laxmi Kamal Plant??(Hybrid, Pack of 1)      ;396 ;177 ;55%    ;Small ;No Returns Allowed?;Succulent            ;Perennial;Indoor & Outdoor                 ;Yes;;Yes                                                                                                ;Unisam Laxmi Lakshmi Ka
+1739022248-376;AloGardening Adenium Plant??(Hybrid, Pack of 6)                        ;789 ;268 ;66%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor, Outdoor                  ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739022250-377;Heaven Of Saplings Bacopa Monnieri??(Hybrid, Pack of 1)                ;299 ;135 ;54%    ;Small ;No Returns Allowed?;Herb                 ;Perennial;Indoor & Outdoor                 ;Yes;0.6 Year;Yes                                                                                                ;Heaven Of Saplings     
+1739022253-378;Cloud Farm Hibiscus Plant??(Hybrid, Pack of 4)                         ;499 ;165 ;66%    ;Small ;No Returns Allowed?;Flower               ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Cloud Farm             
+1739022255-379;UGAOO Philodendron Brasil Plant??(Pack of 1)                           ;555 ;329 ;40%    ;Small ;No Returns Allowed?;Foliage              ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022258-380;UGAOO Philodendron Plant??(Pack of 1)                                  ;449 ;329 ;26%    ;Small ;No Returns Allowed?;Foliage              ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022260-381;AloGardening Dragon Tree??(Hybrid, Pack of 3)                          ;399 ;133 ;66%    ;;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;AloGardening           
+1739022263-382;Green view Coconut Plant??(Hybrid, Pack of 1)                          ;419 ;289 ;31%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Green view             
+1739022265-383;UGAOO Green Philodendron Oxycardium Plant??(Pack of 1)                 ;595 ;299 ;49%    ;Small ;No Returns Allowed?;Foliage              ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022268-384;UGAOO Green Philodendron Oxycardium Plant??(Pack of 1)                 ;449 ;299 ;33%    ;Small ;No Returns Allowed?;Foliage              ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022270-385;HARIGURU All Spice Plant??(Hybrid, Pack of 1)                          ;449 ;179 ;60%    ;Medium;No Returns Allowed?;Herb                 ;Annual   ;Indoor & Outdoor                 ;No ;0.5 Year;Yes                                                                                                ;HARIGURU               
+1739022273-386;UGAOO Njoy Money Plant??(Pack of 1)                                    ;349 ;199 ;42%    ;Small ;No Returns Allowed?;Creepers and Climbers;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022275-387;Green view Coconut Plant??(Hybrid, Pack of 1)                          ;425 ;275 ;35%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Green view             
+1739022278-388;UGAOO Snake Plant??(Pack of 1)                                         ;499 ;249 ;50%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022280-389;UGAOO Green Philodendron Oxycardium Plant??(Pack of 1)                 ;449 ;299 ;33%    ;Small ;No Returns Allowed?;Foliage              ;Biennial ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022283-390;plantsNpetals Three Layer Bamboo Plant??(Hybrid, Pack of 1)            ;999 ;379 ;62%    ;Medium;No Returns Allowed?;Bamboo               ;Annual   ;Indoor & Outdoor                 ;Yes;2 Year  ;Yes                                                                                                ;plantsNpetals          
+1739022285-391;UGAOO Syngonium Plant??(Pack of 1)                                     ;399 ;199 ;50%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor                           ;Yes;;No                                                                                                 ;UGAOO                  
+1739022288-392;UGAOO Broken Heart Plant??(Pack of 1)                                  ;349 ;199 ;42%    ;Small ;No Returns Allowed?;Foliage              ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022290-393;Green view Coconut Plant??(Hybrid, Pack of 1)                          ;625 ;298 ;52%    ;Small ;No Returns Allowed?;Fruit                ;Perennial;Indoor & Outdoor                 ;No ;1 Year  ;Yes                                                                                                ;Green view             
+1739022292-394;UGAOO Jade Plant??(Pack of 1)                                          ;349 ;199 ;42%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022295-395;TAYAN Bamboo Palm Plant??(Pack of 1)                                   ;599 ;299 ;50%    ;Small ;No Returns Allowed?;Shrub                ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;TAYAN                  
+1739022297-396;Real Nature Two Layer Bamboo Plant??(Pack of 1)                        ;699 ;290 ;58%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;6 Year  ;No                                                                                                 ;Real Nature            
+1739022300-397;GIRISHA TRADERS Two Layer Bamboo Plant, Lucky Bamboo Straight Stick, Dr;599 ;229 ;61%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;2 Year  ;No                                                                                                 ;GIRISHA TRADERS        
+1739022302-398;UGAOO Peace Lily Plant??(Pack of 1)                                    ;349 ;199 ;42%    ;Small ;No Returns Allowed?;Succulent            ;Annual   ;Indoor                           ;No ;;No                                                                                                 ;UGAOO                  
+1739022305-399;plantsNpetals Two Layer Bamboo Plant??(Hybrid, Pack of 1)              ;999 ;399 ;60%    ;Medium;No Returns Allowed?;Bamboo               ;Annual   ;Indoor & Outdoor                 ;Yes;2 Year  ;Yes                                                                                                ;plantsNpetals          
+1739022307-400;RJGUDDU Mini Brazalian wood??(Hybrid, Pack of 1)                       ;699 ;279 ;60%    ;Small ;No Returns Allowed?;Bamboo               ;Annual   ;Indoor                           ;Yes;2 Year  ;Yes                                                                                                ;RJGUDDU                
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
